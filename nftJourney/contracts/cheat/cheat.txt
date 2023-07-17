@@ -1,0 +1,3 @@
+https://eips.ethereum.org/EIPS/eip-721
+https://www.openzeppelin.com/contracts
+https://www.quicknode.com/guides/ethereum-development/nfts/how-to-create-and-deploy-an-erc-721-nft
